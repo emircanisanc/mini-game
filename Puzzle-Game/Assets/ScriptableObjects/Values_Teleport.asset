@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c2e90d453fe96e429f0e4d2ec8b2cae, type: 3}
+  m_Name: Values_Teleport
+  m_EditorClassIdentifier: 
+  teleportMaxTime: {fileID: 11400000, guid: 371634360f2336d46a9daf9990994bf8, type: 2}
+  teleportTime: {fileID: 11400000, guid: ad41d77740e76d949a834b6cbd1d3f58, type: 2}
+  skillMaxDuration: {fileID: 11400000, guid: cd3138be985a82544a9e1475f36229f6, type: 2}
+  skillDuration: {fileID: 11400000, guid: 136186599d830e94a9de9a0c08e778e4, type: 2}
