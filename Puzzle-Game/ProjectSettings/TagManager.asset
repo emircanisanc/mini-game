@@ -42,6 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Props
+    uniqueID: 3108824577
+    locked: 0
   - name: Obstacles
     uniqueID: 2029388737
     locked: 0
